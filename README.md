@@ -13,3 +13,5 @@ Nazarbayev University
 Office: #3e542, 53 Kabanbay Batyr Avenue
 
 Astana, Republic of Kazakhstan, 010000
+
+amin.zollanvari@nu.edu.kz
